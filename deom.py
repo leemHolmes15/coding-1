@@ -1,3 +1,3 @@
-Saleem 
-10th grade 
-math 
+#name - Saleem 
+#gradelevel - 10
+#favoriteclass - math 
