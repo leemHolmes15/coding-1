@@ -6,7 +6,7 @@
 # we dont have to add any spacial symbols we can write the number
 # as it.
 
-#FLOATS-A number with a decimal
+# FLOATS-A number with a decimal
 
 #BOOLEAN- A date types that can only be either
 #boolean values. the computer understand these words 
