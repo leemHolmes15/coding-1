@@ -6,5 +6,5 @@
 # num2 = input("")
 # print ( int(num2) +360 )
 
-num3 = input()
-print (num3 =="boys latin" )
+#print (num3 =="boys latin" )
+print (89<40)
