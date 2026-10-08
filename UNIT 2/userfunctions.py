@@ -10,3 +10,6 @@
 # function definition _ the actual instructions 
 # telling the computer how you something to be 
 # done step by step
+
+# functi invocation/ call 
+# when wone write functions name it will run the program
