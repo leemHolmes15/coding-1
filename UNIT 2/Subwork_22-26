@@ -1,0 +1,41 @@
+# def vending_machine():
+    # print("Welcome to the Vending Machine!")
+    # while True:
+        # choice = input("Enter an item code (or type 'q' to quit): ")
+        # if choice == 'q':
+            # print("Thank you for using the vending machine. Goodbye!") 
+        # elif choice == 'B3':
+            # print("Dispensing: Chocolate Bar")
+        # elif choice == 'C5':
+            #print("Dispensing: BBQ Chips")
+        # elif choice == 'G7':
+            # print("Dispensing: Plain Chips")
+        # elif choice == 'D3':
+            # print("Dispensing: Water")
+        # elif choice == 'G5':
+            # print("Dispensing: Cola Soda")
+        #else:
+            # print("Invalid code. Please try again.")
+# vending_machine()
+
+
+
+
+# Rock paper scissors is a simple game where two players choose the options of rock paper or scissors. rock bests scissors scissors beats papper 
+# and paper beats rock.
+            
+def rock_paper_scissors():
+    print("Welcome to Rock Paper Scissors!")
+    while True:
+        Player1 = input("player 1 and enter your choice ( rock, paper or scissors): ")
+        Player2 = input("player 2 and enter your choice ( rock, paper or scissors): ")
+         
+        if Player1 == "rock" and Player2 == "scissors":
+            print("Player 1 wins!")
+        elif Player1 == "scissors" and Player2 == "rock":
+            print("Player 2 wins!")
+        elif Player1 == "paper" and Player2 == "scissors":
+            print("Player 2 wins!")
+        elif Player1 == "scissors" and Player2 == "scissors":
+            print("It's a tie!")
+rock_paper_scissors()
