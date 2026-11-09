@@ -17,25 +17,17 @@
         #else:
             # print("Invalid code. Please try again.")
 # vending_machine()
+import random
 
+def Dice_Game():
+    print("Welcome to the Dice Game!")
+    print("please press R to roll the dice or Q to quit")
+    usersSelection = input()
 
+    while usersSelection != 'q':
+        if usersSelection == 'r':
+            randomNumber= (random.randint(1, 6))
+            if randomNumber != 6:
+                
 
-
-# Rock paper scissors is a simple game where two players choose the options of rock paper or scissors. rock bests scissors scissors beats papper 
-# and paper beats rock.
             
-def rock_paper_scissors():
-    print("Welcome to Rock Paper Scissors!")
-    while True:
-        Player1 = input("player 1 and enter your choice ( rock, paper or scissors): ")
-        Player2 = input("player 2 and enter your choice ( rock, paper or scissors): ")
-         
-        if Player1 == "rock" and Player2 == "scissors":
-            print("Player 1 wins!")
-        elif Player1 == "scissors" and Player2 == "rock":
-            print("Player 2 wins!")
-        elif Player1 == "paper" and Player2 == "scissors":
-            print("Player 2 wins!")
-        elif Player1 == "scissors" and Player2 == "scissors":
-            print("It's a tie!")
-rock_paper_scissors()
