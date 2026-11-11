@@ -1,0 +1,13 @@
+The game im trying to make is a basketball game where you shoot over player for a game winner.
+You can earn coins you depend on how far the shot was if it was a layup you earn 10 coins from mid ranges it will be 25 coins.
+From three point its 50 you can use these coins for ball styles.
+
+
+The control of the game will be keybored you can use wasd and the arrow keybind to move you chareter. You will have shot with the space bar 
+to play the game you have to press enter. 
+
+
+the ball the object you will be shooting with 
+the court the place where you shooting you object at 
+player the person that is useing the object 
+hands the one that is touching the object
