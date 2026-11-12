@@ -7,7 +7,25 @@ The control of the game will be keybored you can use wasd and the arrow keybind 
 to play the game you have to press enter. 
 
 
-the ball the object you will be shooting with 
-the court the place where you shooting you object at 
-player the person that is useing the object 
-hands the one that is touching the object
+the ball  [the object you will be shooting with]
+the color of the ball is a  attribute
+
+
+the court [the place where you shooting you object at] 
+a mehtod would be a player detector, where depending on how close the 
+player is 
+
+player    [the person that is useing the object] 
+hands     [the one that is touching the object]
+the opponent  [ the one that stop you from winning the game]
+
+
+
+
+
+the main mechanics of the game is to make the winning shot in 10 secound In front a player.
+
+the primary goal of the game is win the final monment of the game. To stop the loop the clock will have to hit zero If you win you earn coin 
+and if you lose you lose coin.
+
+The obstacles will the player and the clock  the player will try to block the ball 
