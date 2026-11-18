@@ -1,5 +1,5 @@
 The game im trying to make is a basketball game where you shoot over player for a game winner.
-You can earn coins you depend on how far the shot was if it was a layup you earn 10 coins from mid ranges it will be 25 coins.
+You can earn coins  depending  on the ranges of the shot  if it was a layup you earn 10 coins from mid ranges it will be 25 coins.
 From three point its 50 you can use these coins for ball styles.
 
 
@@ -8,7 +8,8 @@ to play the game you have to press enter.
 
 
 the ball  [the object you will be shooting with]
-the color of the ball is a  attribute
+the color of the ball is a attribute
+the styles of the ball is mehtod
 
 
 the court [the place where you shooting you object at] 

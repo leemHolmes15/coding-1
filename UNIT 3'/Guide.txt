@@ -1,0 +1,15 @@
+This  game is a basketball where you shot over a player to win the game in 30 second. 
+The challenge is you trying to shot the ball before the timer hits Zero and being defend by a defender .
+
+The game will have a welcome screen saying the game name and press enter to start.
+
+the object will the defender the ball and the rim an net. The defender is the person trying to stop you from 
+scoring. The ball is the object your shooting with and the rim an net are the object to make sure that the ball goes in.
+
+The control are the arrow an WASD and the space bar keybind the WASD and the arrow are for you to move.
+The space bar keybind is for you to shot the ball.
+
+The enemy are the ones that stop you from scoring  they should behave like a defender arms up 
+and blocking you path to the rim and your ball .
+
+If you win you earn coins but if you lose you lose coin.
